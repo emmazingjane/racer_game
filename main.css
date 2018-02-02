@@ -1,0 +1,46 @@
+* {
+	display: block;
+	max-width: 1300px;
+}
+
+body{
+	max-width: 1300px;
+	overflow: hidden;
+}
+
+
+#car1 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	padding: 2em;
+	margin: 5em;
+	position: relative;
+	left: 0px;
+
+}
+/*red car*/
+
+
+#car2 {
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+	padding: 2em;
+	margin: 5em;
+	position: relative;
+	left: 0px;
+}
+/*blue car*/
+
+button {
+	background: #3498db;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 33px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+/*start*/
